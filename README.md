@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Shaker87/Shaker87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shaker Hossain
+from Dhaka, Bangladesh.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on ... Full stack web development.
+🌱 I’m currently learning ... Python
+👯 I’m looking to collaborate on ... Python
+🤔 I’m looking for help with ... AWS
+💬 Ask me about ... Anything
+📫 How to reach me: ... Email me- shaker dot hossain87 at gmail dot com
+😄 Pronouns: ... He / Him
+⚡ Fun fact: ... Coding Machine
+
