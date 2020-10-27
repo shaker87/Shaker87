@@ -9,7 +9,7 @@ from Dhaka, Bangladesh.
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [E-mail me:](https://shaker.hossain87@gmail.com)
+- 📫 How to reach me: ... [E-mail](https://shaker.hossain87@gmail.com)
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... Coding Machine
 
