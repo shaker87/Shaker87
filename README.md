@@ -21,4 +21,4 @@ from Dhaka, Bangladesh.
 <img width="550px" alt="Shaker Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shaker87&show_icons=true"/>
 </br>
 
-[![Top Langs card](https://github-readme-status.vercel.app/api/top-langs/?username=shaker87&card_width=550)](https://github.com/Shaker87/shaker87)
+[![Top Langs card](https://github-readme-status.vercel.app/api/top-langs/?username=shaker87&card_width=550)](https://github.com/Shaker87/)
