@@ -5,7 +5,7 @@ from Dhaka, Bangladesh.
 
 
 - 🔭 I’m currently working on ... Full stack web development.
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Node JS
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
