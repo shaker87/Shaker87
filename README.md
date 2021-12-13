@@ -6,7 +6,6 @@ from Dhaka, Bangladesh.
 
 - 🔭 I’m currently working on ... Front End Web Development.
 - 🌱 I’m currently learning ... Node JS
-- 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He / Him
