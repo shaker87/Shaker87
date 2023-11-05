@@ -6,15 +6,15 @@ from Dhaka, Bangladesh.
 
 - 🔭 I’m currently working on ... Front End Web Development.
 - 🌱 I’m currently learning ... BackEnd Development(Express with MongoDB).
-- 💬 Ask me about ... Javascript, React, Ant Design, Talwind css, Material UI, HTML, CSS and Animation.
+- 💬 Ask me about ... Javascript, React, NextJS, Firebase, Ant Design, Talwind css, Material UI, HTML, CSS and Animation.
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... Coding Machine
 
 #### 📫 &nbsp; Reach me:
-[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/saker.ahmmed.9/)
-[![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@shaker.hossain87)
-[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:shaker.hossain87@gmail.com)
+
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/shaker-hossain-49b2381ba/)
+[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:shaker.hossain87@gmail.com)
+
 
 ## [Get Resume](https://drive.google.com/file/d/1xzEfn0aUgXJkD3hx-O5jgeFpWr0uc3Aj/view?usp=sharing)
 
