@@ -17,8 +17,9 @@ from Dhaka, Bangladesh.
 
 
 ## [Get Resume](https://drive.google.com/file/d/1xzEfn0aUgXJkD3hx-O5jgeFpWr0uc3Aj/view?usp=sharing)
+* Click the link [link]([http://www.example.com](https://drive.google.com/file/d/1xzEfn0aUgXJkD3hx-O5jgeFpWr0uc3Aj/view?usp=sharing)) for get resume of shaker.
 
-<img width="550px" alt="Shaker Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shaker87&show_icons=true"/>
+<!-- <img width="550px" alt="Shaker Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shaker87&show_icons=true"/> -->
 </br>
 
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shaker87&card_width=550)](https://github.com/Shaker87/) -->
