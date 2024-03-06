@@ -16,7 +16,7 @@ from Dhaka, Bangladesh.
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:shaker.hossain87@gmail.com)
 
 
-## [Get Resume](https://drive.google.com/file/d/1xzEfn0aUgXJkD3hx-O5jgeFpWr0uc3Aj/view?usp=sharing)
+[Get Resume](https://drive.google.com/file/d/1xzEfn0aUgXJkD3hx-O5jgeFpWr0uc3Aj/view?usp=sharing)
 
 <!-- <img width="550px" alt="Shaker Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shaker87&show_icons=true"/> -->
 <!-- </br> -->
