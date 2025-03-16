@@ -4,9 +4,9 @@ ___
 from Dhaka, Bangladesh.
 
 
-- 🔭 I’m currently working on ... Front End Web Development.
-- 🌱 I’m currently learning ... BackEnd Development(Express with MongoDB).
-- 💬 Ask me about ... Javascript, React, NextJS, Firebase, Ant Design, Talwind css, Material UI, HTML, CSS and Animation.
+- 🔭 I’m currently working on ... Software Development.
+- 🌱 I’m currently learning ... Machine Learning.
+- 💬 Ask me about ... Javascript, React, NextJS, Firebase, Ant Design, Talwind css, Material UI, Express JS, MongoDB, HTML, CSS and Animation.
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... Coding Machine
 
